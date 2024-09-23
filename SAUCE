@@ -5,11 +5,10 @@
 <body>
     <header>
         <h1>The Secret Sauce Formula</h1>
-        <p>This webpage contains the recipe to the Secret Sauce</p>
+        <h3>This webpage contains the recipe to the Secret Sauce</h3>
     </header>
-
     <section>
-        <h2>About Me</h2>
+        <h2>Ingredients</h2>
         <img src="https://example.com/my-photo.jpg" alt="A picture of me" width="300">
         <p>I'm an avid photographer who loves to capture the beauty of nature and everyday moments. This site showcases my work and shares tips for aspiring photographers.</p>
     </section>
