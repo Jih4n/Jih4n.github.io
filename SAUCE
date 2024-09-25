@@ -3,26 +3,22 @@
 <title>Sauce</title>
 </head>
 <body>
-    <header>
-        <h1>The Secret Sauce Formula</h1>
-        <h3>This webpage contains the recipe to the Secret Sauce</h3>
-    </header>
-    <section>
-        <h2>Ingredients</h2>
-        <img src="https://example.com/my-photo.jpg" alt="A picture of me" width="300">
-        <p>I'm an avid photographer who loves to capture the beauty of nature and everyday moments. This site showcases my work and shares tips for aspiring photographers.</p>
-    </section>
+    <h1>The Secret Sauce Formula</h1>
+    <h3>This is the recipe to the Secret Sauce</h3>
+<section>
+    <h4>Ingredients</h4>
+        <ul>
+            <li>1 Tbsp Ranch</li>
+            <li>2-3 Tbsp Ketchup</li>
+            <li>1 Tsp Worcestershire Sauce</li>
+            <li>1/2 Tsp Pepper</li>
+            <li>3 Tbsp Mayonnaise
+            <li>Optional - 1 Tsp Hot Sauce</li>
+        </ul>
+</section>
 
-    <section>
-        <h2>My Work</h2>
-        <img src="https://example.com/photo-gallery.jpg" alt="Gallery of my work" width="300">
-        <p>Check out some of my favorite photos below!</p>
-        <a href="https://example.com/photography-tips" target="_blank">Click here for photography tips!</a>
-    </section>
-
-    <footer>
-        <p>&copy; 2024 My Photography Site</p>
-    </footer>
+    
+        
 
 </body>
 </html>
